@@ -15,6 +15,12 @@ public class DatatypeDemo {
 		double f = 12d/5d;
 		//character
 		char z = 's';
+		// ascii rep
+		int x = '1';
+		//boolean
+		boolean h = true;
+		//string
+		String name = "Shrushti";
 		System.out.println("The value of a is : "+a);
 		System.out.println("The value of b is : "+b);
 		System.out.println("The value of c is : "+c);
@@ -22,7 +28,9 @@ public class DatatypeDemo {
 		System.out.println("The value of e is : "+e);
 		System.out.println("The value of f is : "+f);
 		System.out.println("The value of z is : "+z);
-		
+		System.out.println("The value of x is : "+x);
+		System.out.println("The value of h is : "+h);
+		System.out.println("name is : "+name);
 	
 
 	}

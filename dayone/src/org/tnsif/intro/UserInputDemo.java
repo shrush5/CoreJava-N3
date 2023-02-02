@@ -23,15 +23,15 @@ public class UserInputDemo {
 		String str=sc.nextLine();
 		System.out.println("Enter the value of str");
 
-		double d=sc.nextDouble();
-		System.out.println("Enter the value of double");
+	//	double d=sc.nextDouble();
+	//	System.out.println("Enter the value of double");
 		
 		System.out.println("The value of x is:" +x);
 		System.out.println("The value of y is:" +y);
 		System.out.println("The value of z is:" +z);
 		System.out.println("The value of name is:" +name);
 		System.out.println("The value of str is:" +str);
-		System.out.println("The value of d is:" +d);
+		//System.out.println("The value of d is:" +d);
 
 	}
 
